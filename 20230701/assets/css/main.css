@@ -161,9 +161,9 @@ img{margin: 0; padding: 0; display: block;}
 }
 @media screen and (max-width: 1200px) {
 /* event */
-.man{top: -22%;}
+.man{top: -14%;}
 /* .dis_item_all .dis_txt{height: 140px;} */
-.man{top: -21%;}
+/* .man{top: -15%;} */
 /* icashpay */
 .account{height: auto; margin: 4% auto 3%; padding: 5% 12%;}
 }
