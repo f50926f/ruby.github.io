@@ -161,7 +161,7 @@ img{margin: 0; padding: 0; display: block;}
 }
 @media screen and (max-width: 1200px) {
 /* event */
-.man{top: -14%;}
+.man{top: -13.5%;}
 /* .dis_item_all .dis_txt{height: 140px;} */
 /* .man{top: -15%;} */
 /* icashpay */
@@ -169,6 +169,9 @@ img{margin: 0; padding: 0; display: block;}
 }
 @media screen and (max-width: 1024px) {
 .main{padding-top: 76px;}
+}
+@media screen and (max-width:1003px) {
+.man{top: -13.5%;}
 }
 @media screen and (max-width: 960px) {
 /* kv */
@@ -187,7 +190,7 @@ img{margin: 0; padding: 0; display: block;}
 .display-none{display: none;}
 .discount{width: 84%; padding: 8% 2% 2%;}
 .eaves{top: -1.5%;}
-.man{width: 40%; top: -7%; left: -3%;}
+.man{width: 40%; top: -6%; left: -3%;}
 .discount_all{display: block;}
 .discount-item{width: 100%;}
 .discount-item2{border-bottom: none;}
@@ -224,6 +227,7 @@ img{margin: 0; padding: 0; display: block;}
 .dis_item_all .dis_no::after{left: 48.5%;}
 .dis_item_all .dis_tit{margin: 8% auto 5%;}
 .dis_item_all .dis_txt{font-size: 18px;}
+.man{top: -5%;}
 /* action */
 .action{display:block;}
 .action-item{max-width:300px;margin:auto;}
